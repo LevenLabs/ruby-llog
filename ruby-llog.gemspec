@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Implementation of Leven Lab's logging spec}
   spec.homepage      = "https://github.com/LevenLabs/ruby-llog"
   spec.license       = "MIT"
-  spec.files         = ["lib/levenlabs/llog/llog.rb"]
+  spec.files         = ["lib/levenlabs/llog.rb"]
   #spec.require_paths = ["lib"]
 
   spec.authors = ["Brian Picciano"]
